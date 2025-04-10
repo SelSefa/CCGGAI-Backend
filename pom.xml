@@ -20,7 +20,6 @@
     </properties>
     <dependencies>
 
-        <!-- ✅ OpenAI GPT Java Client (sadece bir kez!) -->
         <dependency>
     <groupId>com.theokanning.openai-gpt3-java</groupId>
     <artifactId>service</artifactId>
